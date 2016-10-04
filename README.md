@@ -10,7 +10,7 @@ Run git clone
 $ gil clone https://github.com/bramaningds/masiya
 ```
 
-Run composer install
+Run composer update
 ```
 $ composer update
 ```
