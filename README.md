@@ -7,7 +7,7 @@ Framework used laravel v4.2
 
 Run git clone
 ```
-$ gil clone https://github.com/bramaningds/masiya
+$ git clone https://github.com/bramaningds/masiya
 ```
 
 Run composer update
